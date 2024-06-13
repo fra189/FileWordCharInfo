@@ -1,0 +1,11 @@
+{
+    "global": {
+        "minLogLevel": "INFO"
+    },
+    "wordCharAnalyzer": {
+        "hypenChar": "-",
+        "minWordRepetition": 10,
+        "removePunctuation": false,
+        "wordPattern": ".*[a-zA-Z0-9]+.*"
+    }
+}
